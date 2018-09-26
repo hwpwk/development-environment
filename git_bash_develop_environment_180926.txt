@@ -1,0 +1,14 @@
+﻿参考：http://www.atmarkit.co.jp/ait/articles/1603/31/news026_2.html
+
+https://gitforwindows.org/　　　　　　
+をダウンロード
+
+
+[ユーザー名とメールアドレスを設定する]
+「ユーザー名」
+「git config --global user.name "｛ユーザー名｝"」と入力し、「Enter」キー
+
+「メールアドレス」
+「git config --global user.name "｛ユーザー名｝"」と入力し、「Enter」キー
+
+設定した値を確認するには、「git config --list」と入力し、「Enter」キー
