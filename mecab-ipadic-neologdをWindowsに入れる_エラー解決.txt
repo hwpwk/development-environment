@@ -1,0 +1,4 @@
+﻿mecab-ipadic-neologdフォルダをCドライブ直下に置くことによって成功
+mecab = MeCab.Tagger('-d C:\mecab-ipadic-neologd')
+原因としてはパスに空白があることでそれを読み取ることができなかった可能性が高い。
+今回はパスに空白が含まれないようCドライブ直下にmecab-ipadic-neologdフォルダを置くことで解決した。
