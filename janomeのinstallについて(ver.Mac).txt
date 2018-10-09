@@ -1,0 +1,13 @@
+﻿pip install janomeでインストールできた(181009)
+pip3 install janomeとコマンドを打つと
+Could not install packages due to an EnvironmentError: [Errno 13] Permission denied: '/usr/local/lib/python3.7/site-packages/Janome-0.3.6.dist-info'
+Consider using the `--user` option or check the permissions.
+とエラー
+
+【使用Mac環境】
+macOS High Serra
+バージョン10.13.6(17G65)
+MacBook Air(13-inch, Early 2015)
+プロセッサ 1.6GHz Intel Core i5
+メモリ 8GB 1600 MHz DDR3
+グラフィックス Intel HD Graphics 6000 1536 MB
